@@ -1,0 +1,32 @@
+<?php 
+
+$L['0_label'] = 'Dirección IP'; 
+$L['1_label'] = 'Dirección MAC'; 
+$L['Alias_Title'] = 'Alias del servidor'; 
+$L['Comment_label'] = 'Comentario'; 
+$L['Description_label'] = 'Descripción'; 
+$L['Dns_Configure_header'] = 'Configurar servidores DNS'; 
+$L['Dns_Title'] = 'DNS'; 
+$L['Empty table'] = 'Usted no tiene ninguna reserva DHCP aún'; 
+$L['Host entry'] = 'Agregar host';
+$L['Hosts_Description'] = 'Nombres de host Mange y dhcp';
+$L['Hosts_Tags'] = 'host nombre de host dhcp dirección dinámica reserva mac alias dominio nombre del host'; 
+$L['Hosts_Title'] = 'DNS y DHCP'; 
+$L['IPAddress_label'] = 'Dirección IP'; 
+$L['IpAddress_label'] = 'Dirección IP'; 
+$L['Key_label'] = 'Nombre de host'; 
+$L['MACAddress_label'] = 'Dirección MAC'; 
+$L['MacAddress_label'] = 'Dirección MAC'; 
+$L['dns1_label'] = 'DNS primario'; 
+$L['dns2_label'] = 'DNS secundario'; 
+$L['host-create_failure'] = 'Creación del anfitrión fallida'; 
+$L['host-create_success'] = 'Host creado con éxito'; 
+$L['host-delete_failure'] = 'No se puede eliminar el host'; 
+$L['host-delete_success'] = 'Host eliminado correctamente'; 
+$L['host-modify_failure'] = 'Modificación del host fallida'; 
+$L['host-modify_success'] = 'Host modificado con éxito'; 
+$L['hostname_label'] = 'Nombre del host'; 
+$L['Create_Alias_Header'] = 'Crear un nuevo alias del servidor';
+$L['Update_Alias_Header'] = 'Actualizar alias "${0}"';
+$L['Create_Dns_Header'] = 'Crear un nuevo nombre de host';
+$L['Update_Dns_Header'] = 'Actualizar el nombre de los anfitriones "${0}"';
